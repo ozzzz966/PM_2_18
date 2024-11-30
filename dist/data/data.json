@@ -1,0 +1,41 @@
+{
+    "education": [
+      {
+        "major": "ENTER YOUR MAJOR",
+        "university": "Name of Your University",
+        "years": "2005-2222"
+      },
+      {
+        "major": "ENTER YOUR MAJOR",
+        "university": "Name of Your University",
+        "years": "2222-2012"
+      }
+    ],
+    "work_experience": [
+      {
+        "position": "Enter Job Position Here",
+        "company": "Company Name / Location",
+        "years": "Present",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "position": "Enter Job Position Here",
+        "company": "Company Name / Location",
+        "years": "2015-2017",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+    ],
+    "references": [
+      {
+        "name": "Glenn M. Gregory",
+        "position": "Director, Mark Media ltd.",
+        "phone": "+555 123 454"
+      },
+      {
+        "name": "Jennifer S. Gavin",
+        "position": "Director, Mark Media Limited",
+        "phone": "+555 123 454"
+      }
+    ]
+  }
+  
